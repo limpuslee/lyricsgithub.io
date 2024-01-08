@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T12:05:24.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="do4YHaQdQIJ-EZ62Ni4C" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T14:03:34.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="F0at-7-tvggGGhkS3tKC" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1533" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-58" value="EKF原理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="112" y="660" width="112.5" height="30" as="geometry" />
+          <mxGeometry x="112" y="690" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cCufwn11oQV-HMZui8y-60" value="实验数据导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="281.75" y="690" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cCufwn11oQV-HMZui8y-61" value="SOC估算结果" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="690" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cCufwn11oQV-HMZui8y-62" value="SOC估算结果分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="613" y="690" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
