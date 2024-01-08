@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T11:45:28.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="gJUceES6Ndf8Ae6QlzZR" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T12:05:24.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="do4YHaQdQIJ-EZ62Ni4C" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1533" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,70 +139,79 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-42" value="电化学模型概述" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="112" y="450" width="112.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7cCufwn11oQV-HMZui8y-43" value="神经网络模型概述" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="112" y="490" width="112.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7cCufwn11oQV-HMZui8y-44" value="等效电路模型概述" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7cCufwn11oQV-HMZui8y-43" value="神经网络模型概述" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="112" y="530" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cCufwn11oQV-HMZui8y-44" value="等效电路模型概述" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="112" y="570" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7cCufwn11oQV-HMZui8y-45" target="7cCufwn11oQV-HMZui8y-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-45" value="一阶RC等效电路模型" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="274.5" y="490" width="127" height="30" as="geometry" />
+          <mxGeometry x="274.5" y="530" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7cCufwn11oQV-HMZui8y-42" target="7cCufwn11oQV-HMZui8y-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241.5" y="470" as="sourcePoint" />
-            <mxPoint x="291.5" y="420" as="targetPoint" />
+            <mxPoint x="241.5" y="510" as="sourcePoint" />
+            <mxPoint x="291.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7cCufwn11oQV-HMZui8y-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234.5" y="475" as="sourcePoint" />
-            <mxPoint x="271.5" y="505" as="targetPoint" />
+            <mxPoint x="234.5" y="515" as="sourcePoint" />
+            <mxPoint x="271.5" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7cCufwn11oQV-HMZui8y-44" target="7cCufwn11oQV-HMZui8y-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="244.5" y="485" as="sourcePoint" />
-            <mxPoint x="271.5" y="510" as="targetPoint" />
+            <mxPoint x="244.5" y="525" as="sourcePoint" />
+            <mxPoint x="271.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7cCufwn11oQV-HMZui8y-49" target="7cCufwn11oQV-HMZui8y-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-49" value="在线参数辨识" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="426" y="490" width="127" height="30" as="geometry" />
+          <mxGeometry x="426" y="530" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-51" value="模型精度验证" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="587.25" y="490" width="127" height="30" as="geometry" />
+          <mxGeometry x="587.25" y="530" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="420" as="sourcePoint" />
-            <mxPoint x="738" y="420" as="targetPoint" />
+            <mxPoint x="98" y="460" as="sourcePoint" />
+            <mxPoint x="738" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="420" as="sourcePoint" />
-            <mxPoint x="100" y="570" as="targetPoint" />
+            <mxPoint x="100" y="460" as="sourcePoint" />
+            <mxPoint x="100" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-55" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="570" as="sourcePoint" />
-            <mxPoint x="738" y="570" as="targetPoint" />
+            <mxPoint x="98" y="610" as="sourcePoint" />
+            <mxPoint x="738" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cCufwn11oQV-HMZui8y-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="420" as="sourcePoint" />
-            <mxPoint x="730" y="570" as="targetPoint" />
+            <mxPoint x="730" y="460" as="sourcePoint" />
+            <mxPoint x="730" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7cCufwn11oQV-HMZui8y-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417.5" y="400" as="sourcePoint" />
+            <mxPoint x="418" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7cCufwn11oQV-HMZui8y-58" value="EKF原理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="112" y="660" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
