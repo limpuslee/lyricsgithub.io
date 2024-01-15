@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T08:19:02.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.18" etag="xZ92K2blUR7tCH-GS3SD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:25:12.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yfMoBIwXoQ4su4bOoy4D" version="22.1.18" type="github">
   <diagram name="Page-1" id="4W3j2TJEjYVzAw-_i7c-">
-    <mxGraphModel>
+    <mxGraphModel dx="2360" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7cEFS_KXJs2tT41TtGt-1" target="c7cEFS_KXJs2tT41TtGt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-1" value="EKF原理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="460" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7cEFS_KXJs2tT41TtGt-2" target="c7cEFS_KXJs2tT41TtGt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-2" value="系统状态方程" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="490" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7cEFS_KXJs2tT41TtGt-3" target="c7cEFS_KXJs2tT41TtGt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-3" value="UKF原理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="520" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7cEFS_KXJs2tT41TtGt-4" target="c7cEFS_KXJs2tT41TtGt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-7" value="改进" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7cEFS_KXJs2tT41TtGt-6">
+          <mxGeometry x="-0.0087" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-4" value="基于EKF的SOC算法" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="490" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c7cEFS_KXJs2tT41TtGt-5" target="c7cEFS_KXJs2tT41TtGt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-5" value="SOC算法" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="490" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c7cEFS_KXJs2tT41TtGt-8" target="c7cEFS_KXJs2tT41TtGt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-8" value="SOC估算结果" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="490" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7cEFS_KXJs2tT41TtGt-9" value="估算结果对比分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="490" width="112.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
