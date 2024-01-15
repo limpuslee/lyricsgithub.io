@@ -1,74 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T05:36:17.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sKVvtdgC99TOatCce4aV" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:07:47.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rTahPi6YFKXvcKrS91FY" version="22.1.18" type="github">
   <diagram name="Page-1" id="mjMANnZP1bLLyK4KJlOx">
     <mxGraphModel dx="1533" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-2" target="utsJGFynIXkWQ6KnZSCp-4">
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-2" target="1EuZVS3nlzbYPiJ-cCU--1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="305" />
+              <mxPoint x="140" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-2" target="1EuZVS3nlzbYPiJ-cCU--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-2" value="电池工作原理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="290" width="112.5" height="30" as="geometry" />
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-2" value="电池工作原理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-4" target="utsJGFynIXkWQ6KnZSCp-5">
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-4" target="1EuZVS3nlzbYPiJ-cCU--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-4" value="电池性能实验" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="283" y="290" width="112.5" height="30" as="geometry" />
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-4" target="1EuZVS3nlzbYPiJ-cCU--10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-5" value="电池性能分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="441.75" y="290" width="112.5" height="30" as="geometry" />
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-4" target="1EuZVS3nlzbYPiJ-cCU--11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-6" value="容量特性分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="250" width="112.5" height="30" as="geometry" />
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-4" value="电池性能实验" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="112.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-7" value="电压特性曲线分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="290" width="112.5" height="30" as="geometry" />
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-5" value="电池性能分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="290" width="112.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-8" value="SOC-OCV曲线拟合" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="330" width="112.5" height="30" as="geometry" />
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-6" value="容量特性分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="771.25" y="250" width="112.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-5">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-7" value="电压特性曲线分析" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="771.25" y="290" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-8" value="SOC-OCV曲线拟合" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="771.25" y="330" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="utsJGFynIXkWQ6KnZSCp-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="553" y="310" as="sourcePoint" />
-            <mxPoint x="603" y="260" as="targetPoint" />
+            <mxPoint x="721.25" y="310" as="sourcePoint" />
+            <mxPoint x="771.25" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-5" target="utsJGFynIXkWQ6KnZSCp-7">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="utsJGFynIXkWQ6KnZSCp-5" target="utsJGFynIXkWQ6KnZSCp-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="564" y="315" as="sourcePoint" />
-            <mxPoint x="613" y="270" as="targetPoint" />
+            <mxPoint x="732.25" y="315" as="sourcePoint" />
+            <mxPoint x="781.25" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utsJGFynIXkWQ6KnZSCp-5" target="utsJGFynIXkWQ6KnZSCp-8">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="utsJGFynIXkWQ6KnZSCp-5" target="utsJGFynIXkWQ6KnZSCp-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574" y="325" as="sourcePoint" />
-            <mxPoint x="623" y="280" as="targetPoint" />
+            <mxPoint x="742.25" y="325" as="sourcePoint" />
+            <mxPoint x="791.25" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="230" as="sourcePoint" />
-            <mxPoint x="738" y="230" as="targetPoint" />
+            <mxPoint x="10" y="230" as="sourcePoint" />
+            <mxPoint x="910" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="380" as="sourcePoint" />
-            <mxPoint x="748" y="380" as="targetPoint" />
+            <mxPoint x="10" y="380" as="sourcePoint" />
+            <mxPoint x="910" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="230" as="sourcePoint" />
-            <mxPoint x="100" y="380" as="targetPoint" />
+            <mxPoint x="10" y="230" as="sourcePoint" />
+            <mxPoint x="10" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="utsJGFynIXkWQ6KnZSCp-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="utsJGFynIXkWQ6KnZSCp-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="230" as="sourcePoint" />
-            <mxPoint x="740" y="380" as="targetPoint" />
+            <mxPoint x="908.25" y="230" as="sourcePoint" />
+            <mxPoint x="908.25" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1EuZVS3nlzbYPiJ-cCU--1" target="utsJGFynIXkWQ6KnZSCp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--1" value="搭建电池实验平台" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1EuZVS3nlzbYPiJ-cCU--2" target="utsJGFynIXkWQ6KnZSCp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--2" value="锂离子电池选型" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--9" value="额定容量测试" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1EuZVS3nlzbYPiJ-cCU--10" target="utsJGFynIXkWQ6KnZSCp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--10" value="HPPC脉冲测试" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1EuZVS3nlzbYPiJ-cCU--11" value="动态工况测试" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
